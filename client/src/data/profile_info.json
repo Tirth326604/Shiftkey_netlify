@@ -1,10 +1,10 @@
 {
     "basic_info": {
-        "image": "profile-pic.jpg",
+        "image": "Tirth_Profile.jpg",
         "name": {
-            "first_name": "Lorem ",
-            "middle_name": "elit",
-            "last_name": "Ipsum",
+            "first_name": "Tirth ",
+            "middle_name": "Ketul",
+            "last_name": "Patel",
             "order": [
                 "first_name",
                 "middle_name",
@@ -18,11 +18,11 @@
     },
     "contact_info": {
         "phone_no": {
-            "value": "+1 (987) 654-3210",
+            "value": "+1 (902) 412-9363",
             "emoji": "&#128222;"
-        },
+        },	
         "email_id": {
-            "value": "lorem.ipsum@gmail.com",
+            "value": "tirth1412patel@gmail.com",
             "emoji": "&#128232;",
             "emoji_style": {
                 "font-size": "20px"
@@ -35,28 +35,13 @@
                 "data": [
                     {
                         "name": "LinkedIn",
-                        "url": "",
+                        "url": "https://www.linkedin.com/in/tirth-patel-1909a01b1/",
                         "icon": "linkedin.svg"
                     },
                     {
                         "name": "GitHub",
-                        "url": "",
+                        "url": "https://github.com/Tirth326604",
                         "icon": "github.svg"
-                    },
-                    {
-                        "name": "Wordpress",
-                        "url": "",
-                        "icon": "wordpress.svg"
-                    },
-                    {
-                        "name": "Codechef",
-                        "url": "",
-                        "icon": "codechef.svg"
-                    },
-                    {
-                        "name": "Hackerrank",
-                        "url": "",
-                        "icon": "hackerrank.svg"
                     }
                 ]
             },
@@ -64,24 +49,20 @@
                 "name": "social",
                 "labelKey": "social",
                 "data": [
-                    {
-                        "name": "YouTube",
-                        "url": "",
-                        "icon": "youtube.svg"
-                    },
+                    
                     {
                         "name": "Instagram",
-                        "url": "",
+                        "url": "https://www.instagram.com/tirthp__264/?hl=en",
                         "icon": "instagram.svg"
                     },
                     {
                         "name": "Twitter",
-                        "url": "",
+                        "url": "https://twitter.com/tirthpa25243853",
                         "icon": "twitter.svg"
                     },
                     {
                         "name": "Facebook",
-                        "url": "",
+                        "url": "https://www.facebook.com/profile.php?id=100074302715185",
                         "icon": "facebook.svg"
                     }
                 ]
@@ -150,10 +131,10 @@
     "bio_info": {
         "titleKey": "bio:",
         "details": [
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quam dolor, gravida ac fermentum id, vestibulum ut sem. Curabitur sed odio in eros euismod imperdiet quis ac erat. Aliquam accumsan dapibus ex, tincidunt egestas ligula sagittis sed.",
-            "Suspendisse pretium venenatis turpis in molestie.",
-            "Nulla pulvinar ac nulla ac sollicitudin. Sed molestie erat sit amet nibh sodales, ut laoreet urna laoreet. Donec consequat sapien nec ante malesuada, a auctor ante consequat.",
-            "Praesent vitae suscipit eros, ut cursus nibh. Ut non molestie lectus"
+            "Hey, My name is Tirth Patel and I have completed my bachelors in computer engineering from Gujarat Technological University(GTU) - INDIA and I am doing Masters in applied computer science from Dalhousie University.",
+            "My acedemic experience in the field of computer Engineering has brought my attention to pursue my professional career in the web development.",
+            "Non-technical skills: communication, leadership, teamwork.",
+            "Hobbies: Music🎸, cricket🏏, football⚽"
         ]
     }
 }
